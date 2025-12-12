@@ -1,4 +1,4 @@
-# Exercises Course in Video — Gustavo Guanabara
+# Exercises Curso Em Video — Gustavo Guanabara
 
 This repository contains the **115 exercises** from the Python course "Curso em Vídeo" by **Gustavo Guanabara**, translated to English. Each exercise is referenced by number and a short title describing its main objective.
 
